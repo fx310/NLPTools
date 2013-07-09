@@ -1,4 +1,4 @@
 NLPTools
 ========
 
-NLP tools
+num2txt.py: Arabic numbers to Chinese characters string
